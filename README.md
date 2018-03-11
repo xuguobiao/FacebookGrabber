@@ -1,5 +1,7 @@
 # FacebookGrabber
-Facebook模拟登录，爬取群组成员信息，并导出excel。
+> Facebook模拟登录，爬取群组成员信息，并导出excel。
+
+**Keywords:** [Netbeans](https://netbeans.org/), [JSwing](https://www.javatpoint.com/java-swing), [Jackson](https://github.com/FasterXML/jackson), [Jsoup](https://jsoup.org/), [Apache POI ](https://poi.apache.org/)
 
 ![主界面](main.png)
 

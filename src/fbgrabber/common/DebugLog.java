@@ -10,7 +10,7 @@ package fbgrabber.common;
 public class DebugLog {
 
     public static final boolean isDebugEnable = true;
-    public static final String TAG = "BeautyShow";
+    public static final String TAG = "FbGrabber";
 
     public static void log(String logString) {
         if (isDebugEnable) {

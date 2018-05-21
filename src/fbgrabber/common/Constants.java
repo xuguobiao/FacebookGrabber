@@ -11,8 +11,8 @@ package fbgrabber.common;
  */
 public class Constants {
 
-    public static final String VERSION_CODE = "201803020407";
-    public static final String VERSION_NAME = "V0.3";
+    public static final String VERSION_CODE = "201805211811";
+    public static final String VERSION_NAME = "v0.4";
 
     public static final String APP_TITLE = "Facebook Grabber";
     public static final String DIALOG_TITLE = "I'm Kido";

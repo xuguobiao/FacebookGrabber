@@ -467,7 +467,6 @@ public class MainFrame extends javax.swing.JFrame {
         }
 //        String fileName = groupInfo.getGroupName() + ".xls";
         String fileName = String.format(Constants.GROUP_FILE_NAME_FORMAT,
-                groupInfo.getGroupName(),
                 groupInfo.getGroupId(),
                 groupInfo.getTotalCount(),
                 groupInfo.getAdminList().size(),

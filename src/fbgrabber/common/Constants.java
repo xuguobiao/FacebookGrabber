@@ -21,7 +21,7 @@ public class Constants {
     public static final String DATEFORMATSTRING = "yyyy年MM月dd日";
     
     public static final String GROUP_FOLDER_NAME = "GroupMembers";
-    public static final String GROUP_FILE_NAME_FORMAT = "%s_%s_(%s-%s-%s)_%s.xls";
+    public static final String GROUP_FILE_NAME_FORMAT = "%s_(%s-%s-%s)_%s.xls";
     
     public static final int GROUP_REQ_SIZE_MIN = 15;
     public static final int GROUP_REQ_SIZE_MAX = 200;
